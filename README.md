@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Ahoj, ja som Matúš!
 
-<!--
-**Limonada44/Limonada44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Študent informatiky na **VŠB – Technickej univerzite Ostrava**, ktorý rád spája logiku, programovanie a svet simulácií.
 
-Here are some ideas to get you started:
+### 🚀 Technické zručnosti
+- **Jazyky:** Python, C++, HTML, 
+- **Simulácie & Modding:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Moje záujmy
+- **Hudba**
+- **Hry** 
+- **Počítače**
+---
+
+### 📫 Kde ma nájdeš
+- 📍 Ostrava, CZ / Martin, SK
