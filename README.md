@@ -4,7 +4,8 @@
 
 ### 🚀 Technické zručnosti
 - **Jazyky:** Python, C++, HTML, 
-- **Simulácie & Modding:**
+- **Grafické editory** Photoshop
+- **Video editory** Davinci Resolve
 
 ### ⚙️ Moje záujmy
 - **Hudba**
